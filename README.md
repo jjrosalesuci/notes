@@ -1,7 +1,4 @@
-# notes
-Notes
-
-using System;
+Using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
